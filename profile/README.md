@@ -1,3 +1,6 @@
+<img width="240" alt="preview" src="https://github.com/Foblex/.github/assets/13272876/45beb856-48e1-4adf-bf39-830f5a32a53a">
+
+
 #### Angular and .NET libraries for Data Visualization and Clean Architecture
 
 #### About Foblex
