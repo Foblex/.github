@@ -13,7 +13,7 @@ At Foblex, we combine in-depth knowledge of Angular, .NET, and Azure to deliver 
 To install Foblex Flow, run the following command:
 
 ```bash
-npm install @foblex/flow
+  npm install @foblex/flow
 ```
 
 Alternatively, you can follow our [Getting Started Guide](https://foblex.com/flow/documentation/get-started) and read the documentation for more information.
