@@ -6,7 +6,7 @@
 #### About Foblex
 ----
 
-At Foblex, we combine in-depth knowledge of Angular, .NET, and Azure to deliver comprehensive solutions in web development. Our team consists of experienced professionals who constantly explore new approaches and technologies. Our flagship products — Foblex Flow, Clarc, and Mstudio — showcase our expertise, offering users flexible and powerful development tools.
+At Foblex, we combine in-depth knowledge of Angular, .NET, and Azure to deliver comprehensive solutions in web development. Our team consists of experienced professionals who constantly explore new approaches and technologies. Our flagship products — [Foblex Flow](https://github.com/Foblex/f-flow), Clarc, and Mstudio — showcase our expertise, offering users flexible and powerful development tools.
 
 ##### Getting started Foblex Flow
 
