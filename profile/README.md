@@ -1,4 +1,8 @@
-<img width="100%" alt="preview" src="https://github.com/Foblex/.github/blob/main/assets/hero.png?raw=true">
+<p align="center">
+  <a href="https://flow.foblex.com/">
+    <img style="margin: auto" src="https://github.com/user-attachments/assets/ee1d39f6-0a89-4cb9-8dee-1652aba82e69" alt="Foblex Flow Logo"/>
+  </a>
+</p>
 
 
 #### Angular and .NET libraries for Data Visualization and Clean Architecture
